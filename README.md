@@ -4,7 +4,7 @@ Created a full stack MERN application built with React, Node.js, Express, MongoD
 
 ## Installation
 
-Make sure that the latest version of Node.js is installed.
+Make sure that the latest version of Node.js is installed locally.
 
 ```bash
 git clone https://github.com/mahbu006/memories.git
