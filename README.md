@@ -1,6 +1,6 @@
 # Memories
 
-Created a full stack MERN application built with React, Node.js, Express, MongoDB, and Material-UI icons. A classic social media app that allows users to post memories and events throughout their lives with other implemented CRUD operations,. 
+Created a full stack MERN application built with React, Node.js, Express, MongoDB, and Material-UI icons. A classic social media app that allows users to post memories and events throughout their lives with other implemented CRUD operations. 
 
 ## Installation
 
